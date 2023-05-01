@@ -181,6 +181,9 @@ header {
     border-radius: 10em;
 }
 
+.nav__list{
+    margin-right: 2.5rem;
+}
 
 @media (min-width: 800px) {
     
